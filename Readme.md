@@ -41,8 +41,8 @@ advanced_cli_task_manager/
 1. Clone the project repository:
 
 ```bash
-git clone <repository_url>
-cd advanced_cli_task_manager
+git clone https://github.com/Senbonzakura95/Day4_exo2
+cd Day4_exo2
 ```
 
 2. Install necessary packages:
